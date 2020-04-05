@@ -1,2 +1,2 @@
 # CC6205-NLP
-homeworks repo
+Repo for CC6205 homeworks
